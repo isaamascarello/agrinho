@@ -2,8 +2,8 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
+    --primary-color: #ff0000;
+    --secondary-color: #020202;
     --text-color: #024959;
     --background-color: #F2E3D5;
     --button-hover: #012E40;
@@ -13,7 +13,7 @@
 
 /* Reset */
 * {
-    margin: 50px;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: var(--font-body);
